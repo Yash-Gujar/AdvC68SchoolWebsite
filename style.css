@@ -1,0 +1,82 @@
+li {
+    padding: 25px;
+}
+
+a {
+    color: coral;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    padding: 25px;
+}
+
+marquee {
+    color: #FFC300;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #20639b;
+}
+
+body {
+    text-align: center;
+}
+
+#ContactUs {
+    padding-right: 350px;    
+    padding-left: 350px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#spnMap {
+    display: inline-block;
+}
+
+#spnContactUs {
+    display: inline-block;
+    border-color: black;
+    border-width: thin;
+}
+
+#spnContactUsInfo {
+    display: inline-block;
+}
+
+#divContactUs {
+
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+h1 {
+    text-align: left;
+}
+
+
+#schoollifeheader {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p {
+    text-align: match-parent;
+}
+
+#communityheader {
+    
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+#newsheader {
+    
+    font-size:30px;
+    font-weight: bold;
+}
+
+#Home{
+    padding: 20px;
+}
